@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/ac"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="15sp"
+        android:padding="20dp"
+        android:text="sldjfafoasfjaldsjfadjf就拉上多久发快点放假案件看到大家发的进来看的十分骄傲了的伤口就分开的时间罚款多少积分卡三等奖法律肯定是房价肯定是积分卡三等奖法律上的戴假发快乐的十分骄傲楼上的房间爱劳动时间发类似的看法就俺俩的时间发了多少积分"
+        />
+
+
+
+</LinearLayout>
